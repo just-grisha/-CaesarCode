@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+C:\Users\admin\source\repos\ShagProject\ShagProject\MyForm.h(295,33): warning C4244: аргумент: преобразование "wchar_t" в "char", возможна потеря данных
+C:\Users\admin\source\repos\ShagProject\ShagProject\MyForm.h(332,35): warning C4244: аргумент: преобразование "wchar_t" в "char", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  ShagProject.vcxproj -> C:\Users\admin\source\repos\ShagProject\Debug\ShagProject.exe

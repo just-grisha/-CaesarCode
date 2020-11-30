@@ -1,0 +1,3 @@
+C:\Users\admin\source\repos\ShagProject\ShagProject\Debug\ShagProject.vcxprojAssemblyReference.cache
+C:\Users\admin\source\repos\ShagProject\ShagProject\Debug\ShagProject.MyForm.resources
+C:\Users\admin\source\repos\ShagProject\ShagProject\Debug\ShagProject.vcxproj.GenerateResource.cache
